@@ -12,7 +12,8 @@ body{
 </style>
 <body>
 	<br><br>
-	<center><h1>WELCOME TO NIKHIL BUS RESERVATION SERVICE</h1></center>
+	<center><h1>BOOK YOUR BUS TICKET</h1></center>
+	<marquee style="font-size: 25px; color: black;">FROM NIKHIL's WEBSITE</marquee><br><br>
 	<center><image src="bus.jpg" alt="BUS Logo" width="800" height="400"></image></center>
 	<center><h2>Login</h2>
 	<% 
